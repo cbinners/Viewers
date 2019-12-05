@@ -231,7 +231,7 @@ can [read more about extensions here][ohif-extensions].
 
 | Name                                                           | Description                                             | Links                  |
 | -------------------------------------------------------------- | ------------------------------------------------------- | ---------------------- |
-| [@ohif/extension-cornestone][extension-cornerstone]            | 2D image viewing, annotation, and segementation tools   | [NPM][cornerstone-npm] |
+| [@ohif/extension-cornerstone][extension-cornerstone]            | 2D image viewing, annotation, and segementation tools   | [NPM][cornerstone-npm] |
 | [@ohif/extension-dicom-html][extension-dicom-html]             | Support for viewing DICOM SR as rendered HTML           | [NPM][html-npm]        |
 | [@ohif/extension-dicom-microscopy][extension-dicom-microscopy] | Whole slide microscopy viewing                          | [NPM][microscopy-npm]  |
 | [@ohif/extension-dicom-pdf][extension-dicom-pdf]               | View DICOM wrapped PDFs in a viewport                   | [NPM][pdf-npm]         |
